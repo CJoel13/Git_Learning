@@ -1,0 +1,11 @@
+The begining of the file
+Then this second line
+And this line AAA is uppercase
+Recreation of interview question
+needs to add some strings with aaa word
+Then the objective is to replace incidences of
+that word
+and maybe aaa rewrite that file
+or aaa
+aaa
+maybe write another one

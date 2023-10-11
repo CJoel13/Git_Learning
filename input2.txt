@@ -1,0 +1,10 @@
+this is another file
+where it also will be the string
+that we want
+to look for up aaa
+then some
+lines additionally
+where
+the word appears aaa inside
+and 
+finish the document.
